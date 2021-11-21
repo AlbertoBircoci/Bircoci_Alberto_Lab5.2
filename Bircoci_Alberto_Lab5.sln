@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bircoci_Alberto_Lab5", "Bircoci_Alberto_Lab5.csproj", "{CD6FCDE1-2F98-44C9-8209-FB9981F1D74D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{EFC130FC-6158-41F0-8439-5CD815C8ECD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD6FCDE1-2F98-44C9-8209-FB9981F1D74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6FCDE1-2F98-44C9-8209-FB9981F1D74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6FCDE1-2F98-44C9-8209-FB9981F1D74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6FCDE1-2F98-44C9-8209-FB9981F1D74D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC130FC-6158-41F0-8439-5CD815C8ECD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC130FC-6158-41F0-8439-5CD815C8ECD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC130FC-6158-41F0-8439-5CD815C8ECD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC130FC-6158-41F0-8439-5CD815C8ECD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF1C61C-20FB-4A97-B0A8-C8D1D045AF9C}
+	EndGlobalSection
+EndGlobal
